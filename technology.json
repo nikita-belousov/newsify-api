@@ -1,0 +1,202 @@
+{
+  "company": {
+    "freq": 0.0024860779634049324,
+    "relevance": 0.5
+  },
+  "twitter": {
+    "freq": 0.002287191726332538,
+    "relevance": 1
+  },
+  "ftx": {
+    "freq": 0.0015910898965791568,
+    "relevance": 1
+  },
+  "tesla": {
+    "freq": 0.0014916467780429594,
+    "relevance": 1
+  },
+  "fsd": {
+    "freq": 0.0012927605409705648,
+    "relevance": 1
+  },
+  "china": {
+    "freq": 0.0011933174224343676,
+    "relevance": 1
+  },
+  "music": {
+    "freq": 0.0010938743038981702,
+    "relevance": 1
+  },
+  "security": {
+    "freq": 0.0010938743038981702,
+    "relevance": 1
+  },
+  "ftc": {
+    "freq": 0.0010938743038981702,
+    "relevance": 1
+  },
+  "employees": {
+    "freq": 0.000994431185361973,
+    "relevance": 1
+  },
+  "gaming": {
+    "freq": 0.000994431185361973,
+    "relevance": 1
+  },
+  "meta": {
+    "freq": 0.000994431185361973,
+    "relevance": 1
+  },
+  "drill": {
+    "freq": 0.000994431185361973,
+    "relevance": 1
+  },
+  "bbc": {
+    "freq": 0.0008949880668257757,
+    "relevance": 1
+  },
+  "stellantis": {
+    "freq": 0.0008949880668257757,
+    "relevance": 1
+  },
+  "report": {
+    "freq": 0.0008949880668257757,
+    "relevance": 1
+  },
+  "content": {
+    "freq": 0.0008949880668257757,
+    "relevance": 1
+  },
+  "consent": {
+    "freq": 0.0008949880668257757,
+    "relevance": 1
+  },
+  "data": {
+    "freq": 0.0007955449482895784,
+    "relevance": 1
+  },
+  "order": {
+    "freq": 0.0007955449482895784,
+    "relevance": 1
+  },
+  "online": {
+    "freq": 0.0006961018297533811,
+    "relevance": 1
+  },
+  "subscription": {
+    "freq": 0.0006961018297533811,
+    "relevance": 1
+  },
+  "pay": {
+    "freq": 0.0006961018297533811,
+    "relevance": 1
+  },
+  "customers": {
+    "freq": 0.0006961018297533811,
+    "relevance": 1
+  },
+  "apple": {
+    "freq": 0.0006961018297533811,
+    "relevance": 1
+  },
+  "covid": {
+    "freq": 0.0006961018297533811,
+    "relevance": 1
+  },
+  "police": {
+    "freq": 0.0006961018297533811,
+    "relevance": 1
+  },
+  "concerns": {
+    "freq": 0.0006961018297533811,
+    "relevance": 1
+  },
+  "requests": {
+    "freq": 0.0006961018297533811,
+    "relevance": 1
+  },
+  "law": {
+    "freq": 0.0006961018297533811,
+    "relevance": 1
+  },
+  "privacy": {
+    "freq": 0.0006961018297533811,
+    "relevance": 1
+  },
+  "compliance": {
+    "freq": 0.0006961018297533811,
+    "relevance": 1
+  },
+  "musk": {
+    "freq": 0.0006961018297533811,
+    "relevance": 1
+  },
+  "autopilot": {
+    "freq": 0.0006961018297533811,
+    "relevance": 1
+  },
+  "vehicles": {
+    "freq": 0.0005966587112171838,
+    "relevance": 1
+  },
+  "services": {
+    "freq": 0.0005966587112171838,
+    "relevance": 1
+  },
+  "agency": {
+    "freq": 0.0005966587112171838,
+    "relevance": 1
+  },
+  "firm": {
+    "freq": 0.0005966587112171838,
+    "relevance": 1
+  },
+  "million": {
+    "freq": 0.0005966587112171838,
+    "relevance": 1
+  },
+  "accounts": {
+    "freq": 0.0005966587112171838,
+    "relevance": 1
+  },
+  "bankman-fried": {
+    "freq": 0.0005966587112171838,
+    "relevance": 1
+  },
+  "violence": {
+    "freq": 0.0005966587112171838,
+    "relevance": 1
+  },
+  "decree": {
+    "freq": 0.0005966587112171838,
+    "relevance": 1
+  },
+  "news": {
+    "freq": 0.0004972155926809865,
+    "relevance": 1
+  },
+  "car": {
+    "freq": 0.0004972155926809865,
+    "relevance": 1
+  },
+  "drivers": {
+    "freq": 0.0004972155926809865,
+    "relevance": 1
+  },
+  "statement": {
+    "freq": 0.0004972155926809865,
+    "relevance": 1
+  },
+  "part": {
+    "freq": 0.0004972155926809865,
+    "relevance": 1
+  },
+  "added": {
+    "freq": 0.0004972155926809865,
+    "relevance": 1
+  },
+  "video": {
+    "freq": 0.0004972155926809865,
+    "relevance": 1
+  }
+}

@@ -1,0 +1,35 @@
+"Individuals associated with the US military" are linked to an online propaganda campaign, Meta's latest adversarial-threat report says.
+
+The campaign was the first major covert pro-US propaganda operation taken down by a big-tech company, independent researchers said in August.
+
+It supported the US and its allies, while opposing countries such as Russia, China and Iran.
+
+But experts said it was largely ineffective.
+
+On Facebook, 39 accounts, 16 pages, and two groups were removed, as well as 26 accounts on Instagram, for violating the platforms' policy against "coordinated inauthentic behaviour".
+
+"This network originated in the United States," Meta wrote.
+
+It focused on countries including Afghanistan, Algeria, Iran, Iraq, Kazakhstan, Kyrgyzstan, Russia, Somalia, Syria, Tajikistan, Uzbekistan and Yemen - and mirrored tactics commonly used in propaganda campaigns against the West, including:
+
+fake personas
+artificially generated images
+campaigns across multiple platforms
+
+The accounts targeting Iran had criticised Iranian authorities and their policies and posted about issues such as women's rights, researchers said.
+
+Some of those supporting the US had posed as independent media outlets and some had tried to pass off content from legitimate outlets, such as BBC News Russian, as their own.
+
+The operation ran across many internet services, including Twitter, YouTube, Telegram, VKontakte and Odnoklassniki, according to Meta.
+
+"Although the people behind this operation attempted to conceal their identities and coordination, our investigation found links to individuals associated with the US military," its report says.
+
+But most of the posts had "little to no engagement" from real users.
+
+US think tank the Atlantic Council's Digital Forensic Research Lab managing editor Andy Carvin told the BBC when the campaign was first revealed, it would be "ineffective and counterproductive" for democracies to undertake such campaigns, because it meant using "the very tactics used by your adversaries" and "further eroding public trust".
+
+Meta's announcement confirms previous reporting by the Washington Post. Sources told the newspaper concern over the operation had made the Pentagon complete "a sweeping audit" of how the US military conducted clandestine information warfare.
+
+The US Department of Defense told BBC News it was "aware of the report published by Meta".
+
+"At this time, we do not have any further comments on the report or potential actions that may be taken by the department as a result of the report," it added.

@@ -1,0 +1,202 @@
+{
+  "team": {
+    "freq": 0.002644453259288642,
+    "relevance": 1
+  },
+  "ronaldo": {
+    "freq": 0.002247785270395346,
+    "relevance": 1
+  },
+  "game": {
+    "freq": 0.002115562607430914,
+    "relevance": 1
+  },
+  "sky": {
+    "freq": 0.0019833399444664813,
+    "relevance": 1
+  },
+  "sports": {
+    "freq": 0.0019833399444664813,
+    "relevance": 1
+  },
+  "club": {
+    "freq": 0.0017188946185376173,
+    "relevance": 1
+  },
+  "eubank": {
+    "freq": 0.0017188946185376173,
+    "relevance": 1
+  },
+  "worcester": {
+    "freq": 0.0017188946185376173,
+    "relevance": 1
+  },
+  "season": {
+    "freq": 0.0015866719555731853,
+    "relevance": 1
+  },
+  "smith": {
+    "freq": 0.0015866719555731853,
+    "relevance": 1
+  },
+  "best": {
+    "freq": 0.0014544492926087532,
+    "relevance": 1
+  },
+  "portugal": {
+    "freq": 0.0014544492926087532,
+    "relevance": 1
+  },
+  "ahmed": {
+    "freq": 0.001322226629644321,
+    "relevance": 0.3
+  },
+  "rugby": {
+    "freq": 0.001322226629644321,
+    "relevance": 1
+  },
+  "goal": {
+    "freq": 0.001190003966679889,
+    "relevance": 1
+  },
+  "schumacher": {
+    "freq": 0.001190003966679889,
+    "relevance": 1
+  },
+  "administration": {
+    "freq": 0.001190003966679889,
+    "relevance": 1
+  },
+  "committee": {
+    "freq": 0.001190003966679889,
+    "relevance": 1
+  },
+  "brazil": {
+    "freq": 0.001057781303715457,
+    "relevance": 1
+  },
+  "win": {
+    "freq": 0.001057781303715457,
+    "relevance": 1
+  },
+  "group": {
+    "freq": 0.001057781303715457,
+    "relevance": 1
+  },
+  "champion": {
+    "freq": 0.001057781303715457,
+    "relevance": 1
+  },
+  "ghana": {
+    "freq": 0.001057781303715457,
+    "relevance": 1
+  },
+  "england": {
+    "freq": 0.001057781303715457,
+    "relevance": 1
+  },
+  "cup": {
+    "freq": 0.0009255586407510248,
+    "relevance": 1
+  },
+  "games": {
+    "freq": 0.0009255586407510248,
+    "relevance": 1
+  },
+  "manchester": {
+    "freq": 0.0009255586407510248,
+    "relevance": 1
+  },
+  "final": {
+    "freq": 0.0009255586407510248,
+    "relevance": 1
+  },
+  "driver": {
+    "freq": 0.0009255586407510248,
+    "relevance": 1
+  },
+  "football": {
+    "freq": 0.0009255586407510248,
+    "relevance": 1
+  },
+  "clubs": {
+    "freq": 0.0009255586407510248,
+    "relevance": 1
+  },
+  "allen": {
+    "freq": 0.0009255586407510248,
+    "relevance": 1
+  },
+  "nfl": {
+    "freq": 0.0009255586407510248,
+    "relevance": 1
+  },
+  "lead": {
+    "freq": 0.0007933359777865926,
+    "relevance": 1
+  },
+  "nets": {
+    "freq": 0.0007933359777865926,
+    "relevance": 1
+  },
+  "coach": {
+    "freq": 0.0007933359777865926,
+    "relevance": 1
+  },
+  "boxing": {
+    "freq": 0.0007933359777865926,
+    "relevance": 1
+  },
+  "fight": {
+    "freq": 0.0007933359777865926,
+    "relevance": 1
+  },
+  "sweeney": {
+    "freq": 0.0007933359777865926,
+    "relevance": 1
+  },
+  "premiership": {
+    "freq": 0.0007933359777865926,
+    "relevance": 1
+  },
+  "knight": {
+    "freq": 0.0007933359777865926,
+    "relevance": 1
+  },
+  "serbia": {
+    "freq": 0.0006611133148221605,
+    "relevance": 1
+  },
+  "neymar": {
+    "freq": 0.0006611133148221605,
+    "relevance": 1
+  },
+  "players": {
+    "freq": 0.0006611133148221605,
+    "relevance": 1
+  },
+  "play": {
+    "freq": 0.0006611133148221605,
+    "relevance": 1
+  },
+  "championship": {
+    "freq": 0.0006611133148221605,
+    "relevance": 1
+  },
+  "fernandes": {
+    "freq": 0.0006611133148221605,
+    "relevance": 1
+  },
+  "williams": {
+    "freq": 0.0006611133148221605,
+    "relevance": 1
+  },
+  "box": {
+    "freq": 0.0006611133148221605,
+    "relevance": 1
+  },
+  "victory": {
+    "freq": 0.0006611133148221605,
+    "relevance": 1
+  }
+}
